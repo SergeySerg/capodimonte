@@ -20,7 +20,7 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'raduke_newcapodimonteua');
+define('DB_NAME', 'capodimonte_db');
 
 /** Имя пользователя MySQL */
 define('DB_USER', 'root');

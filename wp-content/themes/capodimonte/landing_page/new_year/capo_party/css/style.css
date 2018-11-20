@@ -1,0 +1,107 @@
+@media screen and (max-width: 768px) {
+    .text-thin {
+        font-size: 120%;
+    }
+    
+    .chess-image {
+        height: 40vw !important;
+    }
+}
+
+
+.pumpkin-price-card {
+    box-shadow: 5px 5px 30px rgba(148, 61, 10, 0.5);
+    background-color: #f4f4f4;
+    width: 100%;
+    padding: 15px;
+}
+
+
+.btn-dark-bg {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid red;
+    border-radius: 0;
+    color: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.btn-dark-bg:hover {
+    color: #fff;
+    background-color: red;
+}
+
+.chess-image {
+    width: 100%;
+    height: 20vw;
+    background-position: center;
+    background-size: cover;
+}
+.checker-title {
+    color: #4D3431;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.pumpkin-date {
+    width: 100%;
+    padding: 15px;
+    color: #fff;
+    background-color: red;
+    box-shadow: 0px 1px 15px rgba(0,0,0,0.3);
+}
+
+.dot-shadow {
+    color: #fff;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+}
+
+
+.text-brown {
+    color: #4D3431;
+    font-weight: 500;
+}
+.price-pattern {
+    width: 100%;
+    padding: 15px;
+    color: #fff;
+    text-align: center;
+    background-color: #707070;
+}
+
+.pt-25 {
+    padding-top: 25vh;
+}
+
+.del-cross {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.del-cross:before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: auto;
+  height: auto;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0) url(http://paulradzkov.com/2012/crosswise/cross.svg) no-repeat;
+  background-size: 100% 100%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link.hover-underline:focus,
+.navbar-light .navbar-nav .nav-link.hover-underline:hover{
+    color: #fff;
+    text-decoration: none;
+    border-bottom: red 2px solid;
+    margin-bottom: 1px !important;
+    transition: all 0.3s;
+}
