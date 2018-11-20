@@ -1,0 +1,4 @@
+[28-Nov-2017 01:15:41 Europe/Kiev] PHP Fatal error:  Class 'Walker' not found in /home/raduke/public_html/capodimonte.ua/wp-includes/class-walker-nav-menu.php on line 17
+[20-Jan-2018 00:37:09 Europe/Kiev] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/raduke/public_html/capodimonte.ua/wp-includes/locale.php on line 10
+[15-Mar-2018 00:00:01 Europe/Kiev] PHP Fatal error:  Class 'Walker' not found in /home/raduke/public_html/capodimonte.ua/wp-includes/class-walker-nav-menu.php on line 17
+[23-Mar-2018 09:06:28 Europe/Kiev] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/raduke/public_html/capodimonte.ua/wp-includes/locale.php on line 10

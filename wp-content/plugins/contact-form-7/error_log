@@ -1,0 +1,2 @@
+[24-Nov-2017 22:25:59 Europe/Kiev] PHP Fatal error:  Call to undefined function plugin_basename() in /home/raduke/public_html/capodimonte.ua/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Aug-2018 11:44:46 Europe/Kiev] PHP Fatal error:  Call to undefined function plugin_basename() in /home/raduke/public_html/capodimonte.ua/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
